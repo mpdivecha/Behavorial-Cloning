@@ -5,6 +5,6 @@ Submission repository for behavorial cloning for Udacity's Self-Driving Engineer
 Table of Contents
 =================
 
-  * [Project writeup](writeup.md)
+  * [Project writeup](writeup_report.md)
   * [Model weights](model.h5)
   * [Model code](model.py)
